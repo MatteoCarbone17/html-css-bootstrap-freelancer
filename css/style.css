@@ -23,6 +23,17 @@ header{
     background-color: rgb(30, 164, 182);
 }
 
+
+.color-text{
+    color: white;
+}
+
+
+div.color-text>a{
+    color: white;
+}
+
+
 .bg-custom-red{
    background-color:  rgb(186, 75, 99);
 }
