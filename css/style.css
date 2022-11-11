@@ -23,6 +23,10 @@ header{
     background-color: rgb(30, 164, 182);
 }
 
+.bg-color{
+    background-color: rgb(26, 188, 156);
+
+}
 
 .color-text{
     color: white;
@@ -32,6 +36,8 @@ header{
 div.color-text>a{
     color: white;
 }
+
+div.img-font>{width: 200px;}
 
 
 .bg-custom-red{
